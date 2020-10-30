@@ -1,0 +1,223 @@
+Name	Pfad	de	en	fr	it
+text	/rdmo/option[72]/text[4]	1 GB bis 1 TB	1 GB to 1 TB	1 GB à 1 TB	da 1 GB a 1 TB
+text	/rdmo/option[73]/text[4]	1 TB bis 100 TB	1 TB to 100 TB	1 TB à 100 TB	da 1 TB a 100 TB
+text	/rdmo/option[117]/text[4]	Noch zu klären	To be clarified	À être clarifié	
+text	/rdmo/option[103]/text[4]	Akteure	Agents	Agents	
+text	/rdmo/option[120]/text[4]	ARK	ARK	ARK	AKR
+text	/rdmo/option[191]/text[4]	Namensnennung	Attribution	Attribution	
+text	/rdmo/option[46]/text[4]	Namensnennung (BY)	Attribution (BY)	Attribution (BY)	
+text	/rdmo/option[112]/text[4]	Es wird kein festgelegtes System zur Beschreibung genutzt	No fixed system for the description is used	Aucun système fixe pour la description n'est utilisé	
+text	/rdmo/option[27]/text[4]	Sonstiges	Other	Autre	Altro
+text	/rdmo/option[38]/text[4]	Andere	Other	Autre	Altri
+text	/rdmo/option[51]/text[4]	Andere	Other	Autre	Altri
+text	/rdmo/option[61]/text[4]	Andere	Other	Autre	Altri
+text	/rdmo/option[79]/text[4]	Sonstiges	Other	Autre	Altro
+text	/rdmo/option[105]/text[4]	Andere	Other	Autre	Altri
+text	/rdmo/option[109]/text[4]	Sonstiges	Other	Autre	Altro
+text	/rdmo/option[113]/text[4]	Sonstiges	Other	Autre	Altro
+text	/rdmo/option[123]/text[4]	Anderes	Other	Autre	Altro
+text	/rdmo/option[129]/text[4]	Andere	Other	Autre	Altri
+text	/rdmo/option[134]/text[4]	Sonstiges	Other	Autre	Altro
+text	/rdmo/option[195]/text[4]	Andere	Other	Autre	Altri
+text	/rdmo/option[206]/text[4]	Andere	Other	Autre	Altri
+text	/rdmo/option[214]/text[4]	Sonstiges	Other	Autre	Altro
+text	/rdmo/option[7]/text[4]	Sonstiges	Others	Autres	Altro
+text	/rdmo/option[43]/text[4]	Weitere für die Interoperabilität wichtige Aspekte	Other aspects in terms of interoperability	Autres aspects en termes d'interopérabilité	
+text	/rdmo/option[187]/text[4]	Andere Urheberrechte	Other copyright laws	Autres lois sur le droit d'auteur	
+text	/rdmo/option[54]/text[4]	Patent	patent	brevet	Brevetto
+text	/rdmo/option[201]/text[4]	Patente	Patents	Brevets	Brevetti
+text	/rdmo/option[131]/text[4]	Disziplinspezifisches Datenzentrum	Discipline specific data center	Centre de données spécifique à la discipline	
+text	/rdmo/option[132]/text[4]	Generisches Datenzentrum	Generic data center	Centre générique de données	
+text	/rdmo/option[203]/text[4]	Ergänzende Schutzzertifikate	Supplementary Protection Certificates	Certificats de Protection Supplémentaires	
+text	/rdmo/option[60]/text[4]	eingetragenes Design	registered design	conception déposé	
+text	/rdmo/option[96]/text[4]	Inhalt	Content	Contenu	Contenuto
+text	/rdmo/option[77]/text[4]	Einfaches Kopieren	Simple copying	Copie simple	
+text	/rdmo/option[212]/text[4]	Einfaches Kopieren	Simple copying	Copie simple	
+text	/rdmo/option[52]/text[4]	Erzeugt	Created	Créé	Creato
+text	/rdmo/option[196]/text[4]	Erzeugt	Created	Créé	Creato
+text	/rdmo/option[100]/text[4]	Dokumentation der zur Nutzung notwendigen Software	Documentation of the software necessary to use the data	Documentation du logiciel nécessaire à l'utilisation des données	
+text	/rdmo/option[50]/text[4]	Gemeinfrei (CC0)	Public domain (CC0)	Domaine public (CC0)	Pubblico dominio (CC0)
+text	/rdmo/option[37]/text[4]	Sammelwerk oder Datenbankwerk	collected edition or database work	édition collectée ou travail de base de données	
+text	/rdmo/option[95]/text[4]	Ort	Location	Emplacement	Collocazione
+text	/rdmo/option[128]/text[4]	Selbstverpflichtung	Self-commitment	Engagement personnel	
+text	/rdmo/option[6]/text[4]	Peer reviews der Daten	Peer reviews of the data	Examen par les pairs des données	
+text	/rdmo/option[118]/text[4]	Handle / DOI	Handle / DOI	Handle / DOI	Handle / DOI
+text	/rdmo/option[104]/text[4]	Identifikatoren	Identifiers	Identifiants	Identificatori
+text	/rdmo/option[114]/text[4]	Es wurde noch nicht entschieden, mit welchem System die Metadaten und Kontextinformationen beschrieben werden	It has not yet been decided, with which system the metadata and contextual information will be described	Il n'a pas encore été décidé, avec quel système les métadonnées et les informations contextuelles seront décrites	
+text	/rdmo/option[59]/text[4]	geographische Herkunftsangabe	geographical indication	indication géographique	Indicazione geografica di origine
+text	/rdmo/option[199]/text[4]	geografische Herkunftsangaben	Geographical indications	Indications géographiques	Indicazioni geografiche di origine
+text	/rdmo/option[122]/text[4]	ISLRN	ISLRN	ISLRN	ISLRN
+text	/rdmo/option[127]/text[4]	Dokumentation aufgrund gesellschaftlicher Relevanz	Documentation, because it is relevant to society	La documentation, car elle est pertinente pour la société	
+text	/rdmo/option[92]/text[4]	"Es wird keine ""informierte Einwilligung"" eingeholt"	"The ""informed consent"" is not obtained"	"Le ""consentement éclairé"" n'est pas obtenu"	
+text	/rdmo/option[189]/text[4]	Der Code wird unter folgender Lizenz veröffentlicht	The code will be published under the following license	Le code sera publié sous la licence suivante	
+text	/rdmo/option[40]/text[4]	Für den Datensatz werden standardisierte Formate genutzt	The dataset adheres to standardised formats	Le jeu de données adhère à des formats standardisés	
+text	/rdmo/option[41]/text[4]	Der Datensatz ist mit verfügbarer (offener) Software bzw. mit in der jeweiligen Community etablierter und vielgenutzter Software nutzbar	The dataset is usable with availabe (open) software applications or software applications that are established and widely used in the respective community	Le jeu de données est utilisable avec des applications logicielles (ouvertes) disponibles ou des applications logicielles qui sont établies et largement utilisées dans la communauté respective	
+text	/rdmo/option[42]/text[4]	Der Datensatz kann ohne großen Aufwand mit verschiedenen anderen Datensätzen aus unterschiedlichen Quellen rekombiniert werden	The dataset can easily be re-combined with different datasets from different origins	Le jeu de données peut facilement être re-combiné avec différents ensembles de données d'origines différentes	
+text	/rdmo/option[44]/text[4]	Der Datensatz wird unter folgender Lizenz veröffentlicht	The dataset will be published under the followig license	Le jeu de données sera publié sous la licence suivante	
+text	/rdmo/option[94]/text[4]	Es werden folgende Infrastrukturressourcen benötigt	The following infrastructure resources are needed	Les ressources d'infrastructure suivantes sont nécessaires	
+text	/rdmo/option[93]/text[4]	Die üblichen Infrastrukturressourcen des Arbeitsplatzes reichen aus.	Infrastructure resources of the usual workplace equipment are sufficient.	Les ressources en infrastructure de l'équipement habituel sur le lieu de travail sont suffisantes.	
+text	/rdmo/option[183]/text[4]	Recht des Herstellers eines Tonträgers	Law	Loi	Legge
+text	/rdmo/option[56]/text[4]	Marke	trademark	marque déposée	Marchio depositato
+text	/rdmo/option[205]/text[4]	Markenrecht	Trademark	Marque déposée	Marchio depositato
+text	/rdmo/option[2]/text[4]	Wiederholte Messungen	Repeated measurements	Mesures répétées	Misure ripetute
+text	/rdmo/option[97]/text[4]	Methodik	Methodology	Méthodologie	Metodo
+text	/rdmo/option[55]/text[4]	Gebrauchsmuster	utility model	modèle d'utilité	
+text	/rdmo/option[204]/text[4]	Gebrauchsmuster	Utility models	Modèles d'utilité	
+text	/rdmo/option[71]/text[4]	weniger als ein GB	less than 1 GB	moins de 1 GB	Meno di 1 GB
+text	/rdmo/option[133]/text[4]	Wurde noch nicht entschieden	Has not yet been decided	N'a pas encore été décidé	Non ancora deciso
+text	/rdmo/option[198]/text[4]	geschäftliche Bezeichnungen (Unternehmenskennzeichen und Werktitel)	Business names (company names and work titles)	Noms commerciaux (noms d'entreprises et titres de travail)	Nomi commerciali (nomi di imprese e titoli di lavoro)
+text	/rdmo/option[31]/text[4]	Nein	No	Non	No
+text	/rdmo/option[34]/text[4]	Nein	No	Non	No
+text	/rdmo/option[39]/text[4]	Nein	No	Non	No
+text	/rdmo/option[62]/text[4]	Nein	No	Non	No
+text	/rdmo/option[70]/text[4]	Nein	No	Non	No
+text	/rdmo/option[86]/text[4]	Nein	No	Non	No
+text	/rdmo/option[116]/text[4]	Nein	No	Non	No
+text	/rdmo/option[188]/text[4]	Nein	No	Non	No
+text	/rdmo/option[207]/text[4]	Nein	No	Non	No
+text	/rdmo/option[211]/text[4]	Nein	No	Non	No
+text	/rdmo/option[217]/text[4]	Nein	No	Non	No
+text	/rdmo/option[220]/text[4]	Nein	No	Non	No
+text	/rdmo/option[65]/text[4]	nein bzw. nur mit unverhältnismäßig großem Aufwand	no or only with disproportionate cost or effort	non ou seulement avec un coût ou un effort disproportionné	
+text	/rdmo/option[66]/text[4]	nein, die Daten sind per se nicht reproduzierbar	no, the data is not reproducible per se	non, les données ne sont pas reproductibles en soi	
+text	/rdmo/option[85]/text[4]	Nein, eine Begutachtung ist nicht notwendig, weil	No, a review is not necessary, because	Non, un examen n'est pas nécessaire, car	
+text	/rdmo/option[3]/text[4]	Datenaufzeichnungsstandards	Standards for data recording	Normes d'enregistrement des données	
+text	/rdmo/option[110]/text[4]	Es werden disziplinspezifische Standards, Klassifikationen etc. genutzt	Discipline-specific standards, classifications etc. are used	Normes spécifiques à la discipline, classifications, etc. sont utilisées	
+text	/rdmo/option[126]/text[4]	Aufgrund gesetzlicher Bestimmungen	Legal obligations	Obligations légales	Obbligazioni legali
+text	/rdmo/option[35]/text[4]	Werk der Literatur, Wissenschaft oder Kunst	work of literature, scholarship or the arts	œuvre littéraire, universitaire ou artistique	
+text	/rdmo/option[115]/text[4]	Ja	Yes	Oui	Sì
+text	/rdmo/option[216]/text[4]	Ja	Yes	Oui	Sì
+text	/rdmo/option[219]/text[4]	Ja	Yes	Oui	Sì
+text	/rdmo/option[82]/text[4]	Ja, begutachtet mit Auflagen, die folgendermaßen erfüllt werden	Yes, approved under obligations which will be complied in the following way	Oui, approuvé en vertu d'obligations qui seront respectées de la manière suivante	
+text	/rdmo/option[30]/text[4]	Ja, nach der Datenanalyse / vor der Publikation	Yes, after the data analysis / before publication	Oui, après l'analyse des données / avant la publication	
+text	/rdmo/option[29]/text[4]	Ja, vor / zu Beginn der Datenanalyse	Yes, before / at the beginning of the data analysis	Oui, avant / au début de l'analyse des données	
+text	/rdmo/option[63]/text[4]	ja, mit geringem Aufwand	yes, with little effort	oui, avec peu d'effort	
+text	/rdmo/option[64]/text[4]	ja, mit mäßigem, aber vertretbarem Auswand	yes, with moderate, but reasonable effort	oui, avec un effort modéré mais raisonnable	
+text	/rdmo/option[69]/text[4]	Ja, extern für alle	Yes, externally for everyone	Oui, en externe pour tout le monde	
+text	/rdmo/option[210]/text[4]	Ja, extern für alle	Yes, externally for everyone	Oui, en externe pour tout le monde	
+text	/rdmo/option[208]/text[4]	Ja, intern mit allen, solange sie den Code nicht veröffentlichen oder nach außen weitergeben	Yes, internally with everyone, as long as they don't pass on the code externally	Oui, en interne avec tout le monde, tant qu'ils ne transmettent pas le code en externe	
+text	/rdmo/option[67]/text[4]	Ja, intern mit allen, solange sie die Daten nicht veröffentlichen oder nach außen weitergeben	Yes, internally with everyone, as long as they don't pass on the data	Oui, en interne avec tout le monde, tant qu'ils ne transmettent pas les données	
+text	/rdmo/option[81]/text[4]	Ja, positiv begutachtet von folgender Kommission	Yes, reviewed and approved by the following committee	Oui, examiné et approuvé par le comité suivant	
+text	/rdmo/option[68]/text[4]	Ja, extern in begrenztem Umfang mit individueller Freigabe	Yes, externally limited with individual approval	Oui, limité en externe avec approbation individuelle	
+text	/rdmo/option[209]/text[4]	Ja, extern in begrenztem Umfang mit individueller Freigabe	Yes, externally limited with individual approval	Oui, limité en externe avec approbation individuelle	
+text	/rdmo/option[28]/text[4]	Ja, während der Erhebung	Yes, during the collection	Oui, lors de la collecte	
+text	/rdmo/option[32]/text[4]	Ja, von mehreren Personen an verschiedenen Institutionen	Yes, by several persons at various institutions	Oui, par plusieurs personnes dans divers établissements	
+text	/rdmo/option[33]/text[4]	Ja, von mehreren Personen derselben Arbeitsgruppe an derselben Institution	Yes, by multiple persons of the same workgroup at the same institution	Oui, par plusieurs personnes du même groupe de travail dans la même institution	
+text	/rdmo/option[88]/text[4]	Ja. Die Genehmigung wurde beantragt am/im	Yes. The permit has been applied for on	Oui. Le permis a été demandé le	
+text	/rdmo/option[87]/text[4]	Ja. Die Genehmigung liegt bereits vor.	Yes. The permit has been received.	Oui. Le permis a été reçu.	
+text	/rdmo/option[89]/text[4]	Ja. Die Genehmigung wird beantragt bis spätestens	Yes. The permit will be applied for by	Oui. Le permis sera demandé par	
+text	/rdmo/option[194]/text[4]	Weitergabe unter gleichen Bedingungen	Share-alike	Partage dans les mêmes conditions	
+text	/rdmo/option[49]/text[4]	Weitergabe unter gleichen Bedingungen (SA)	Share-alike (SA)	Partage dans les mêmes conditions (SA)	
+text	/rdmo/option[192]/text[4]	keine kommerzielle Nutzung	Non-commercial	Pas d'utilisation commerciale	
+text	/rdmo/option[47]/text[4]	keine kommerzielle Nutzung (NC)	Non-commercial (NC)	Pas d'utilisation commerciale (NC)	
+text	/rdmo/option[193]/text[4]	keine Bearbeitung	No derivative work	Pas de modification	
+text	/rdmo/option[48]/text[4]	keine Bearbeitung (ND)	No derivative work (ND)	Pas de modification (ND)	
+text	/rdmo/option[218]/text[4]	Noch nicht	Not yet	Pas encore	Non ancora
+text	/rdmo/option[80]/text[4]	Noch nicht entschieden	Not yet decided	Pas encore décidé	Non ancora deciso
+text	/rdmo/option[215]/text[4]	Noch nicht entschieden	Not yet decided	Pas encore décidé	Non ancora deciso
+text	/rdmo/option[76]/text[4]	noch nicht bestimmt	not yet defined	pas encore défini	Non ancora definito
+text	/rdmo/option[84]/text[4]	Noch nicht, es wird zur Begutachtung eingereicht bis spätestens	Not yet, it will be handed in for review by	Pas encore, il sera remis pour examen par	
+text	/rdmo/option[83]/text[4]	Noch nicht, es befindet sich aber bereits in Begutachtung	Not yet, but it is already in the review process	Pas encore, mais il est déjà en cours d'examen	
+text	/rdmo/option[74]/text[4]	mehr als 100 TB	more than 100 TB	plus que 100 TB	più di 100 TB
+text	/rdmo/option[90]/text[4]	Zur Analyse/Nutzung der Daten im Rahmen des Projektes sowie zur Nachnutzung	For analysis / use of the data within the project as well as for re-use	Pour l'analyse / l'utilisation des données dans le projet ainsi que pour la réutilisation	
+text	/rdmo/option[1]/text[4]	Kalibrierverfahren	Calibration procedure	Procédure de calibrage	Procedura di calibrazione
+text	/rdmo/option[98]/text[4]	Erzeugungsprozess	Creation process	Processus de création	
+text	/rdmo/option[130]/text[4]	Eigene Institution	Own institution	Propre institution	Proprio istituto
+text	/rdmo/option[58]/text[4]	Halbleiterschutz	integrated circuit layout design protection	protection de la conception de la disposition des circuits intégrés	
+text	/rdmo/option[57]/text[4]	Sortenschutz	plant variety rights protection	protection des droits sur variété végétale	
+text	/rdmo/option[200]/text[4]	Sortenschutz (Pflanzenzüchtungen)	Plant Variety Protection (Plant Varieties)	Protection des obtentions végétales (variétés végétales)	
+text	/rdmo/option[202]/text[4]	Halbleiterschutz bzw. Schutz von Topografien	Semiconductor protection or protection of topographies	Protection semiconductor ou protection des topographies	
+text	/rdmo/option[119]/text[4]	PURL	PURL	PURL	PURL
+text	/rdmo/option[190]/text[4]	Noch zu klären	Yet to be decided	Reste à décider	
+text	/rdmo/option[45]/text[4]	Noch zu klären	Yet to be determined	Reste à déterminer	
+text	/rdmo/option[125]/text[4]	Nachnutzung in Folgeprojekten oder durch andere	Re-use in subsequent projects or by others	Réutilisation dans des projets ultérieurs ou par d'autres	
+text	/rdmo/option[53]/text[4]	Nachgenutzt	Re-used	Réutilisé	Riutilizzato
+text	/rdmo/option[197]/text[4]	Nachgenutzt	Re-used	Réutilisé	Riutilizzato
+text	/rdmo/option[182]/text[4]	Ingenieurwissenschaften / Bauwesen und Architektur	Engineering Sciences / Construction Engineering and Architecture	Sciences de l'Ingénierie / Génie de la Construction et Architecture	
+text	/rdmo/option[177]/text[4]	Ingenieurwissenschaften / Werkstofftechnik	Engineering Sciences / Materials Engineering	Sciences de l'Ingénierie / Génie des Matériaux	
+text	/rdmo/option[175]/text[4]	Ingenieurwissenschaften / Verfahrenstechnik, Technische Chemie	Engineering Sciences / Process Engineering, Technical Chemistry	Sciences de l'Ingénierie / Génie des Procédés, Chimie Technique	
+text	/rdmo/option[174]/text[4]	Ingenieurwissenschaften / Mechanik und Konstruktiver Maschinenbau	Engineering Sciences / Mechanics and Constructive Mechanical Engineering	Sciences de l'Ingénierie / Génie Mécanique et Mécanique des Structures	
+text	/rdmo/option[181]/text[4]	Ingenieurwissenschaften / Informatik	Engineering Sciences / Computer Science	Sciences de l'Ingénierie / Informatique	
+text	/rdmo/option[179]/text[4]	Ingenieurwissenschaften / Systemtechnik	Engineering Sciences / Systems Engineering	Sciences de l'Ingénierie / Ingénierie des Systèmes	
+text	/rdmo/option[180]/text[4]	Ingenieurwissenschaften / Elektrotechnik	Engineering Sciences / Electrical Engineering	Sciences de l'Ingénierie / Ingénierie Électrique	
+text	/rdmo/option[178]/text[4]	Ingenieurwissenschaften / Materialwissenschaft	Engineering Sciences / Materials Science	Sciences de l'Ingénierie / Science des Matériaux	
+text	/rdmo/option[176]/text[4]	Ingenieurwissenschaften / Wärmeenergietechnik, Thermische Maschinen, Strömungsmechanik	Engineering Sciences / Heat Energy Technology, Thermal Machines, Fluid Mechanics	Sciences de l'Ingénierie / Technologie de l'Énergie Calorifique, Machines Thermiques, Mécanique des Fluides	
+text	/rdmo/option[173]/text[4]	Ingenieurwissenschaften / Produktionstechnik	Engineering Sciences / Production Technology	Sciences de l'Ingénierie / Technologie de Production	
+text	/rdmo/option[154]/text[4]	Lebenswissenschaften / Agrar-, Forstwissenschaften, Gartenbau und Tiermedizin	Life Sciences / Agriculture, Forestry, Horticulture and Veterinary Medicine	Sciences de la Vie / Agriculture, Foresterie, Horticulture et Médecine Vétérinaire	
+text	/rdmo/option[152]/text[4]	Lebenswissenschaften / Medizin	Life Sciences / Medicine	Sciences de la Vie / Médecine	Scienze della vita / medicina
+text	/rdmo/option[151]/text[4]	Lebenswissenschaften / Mikrobiologie, Virologie und Immunologie	Life Sciences / Microbiology, Virology and Immunology	Sciences de la Vie / Microbiologie, Virologie et Immunologie	
+text	/rdmo/option[153]/text[4]	Lebenswissenschaften / Neurowissenschaft	Life Sciences / Neurosciences	Sciences de la Vie / Neurosciences	
+text	/rdmo/option[148]/text[4]	Lebenswissenschaften / Grundlagen der Biologie und Medizin	Life Sciences / Basic Biological and Medical Research	Sciences de la Vie / Recherche Biologique et Médicale Fondamentale	
+text	/rdmo/option[149]/text[4]	Lebenswissenschaften / Pflanzenwissenschaften	Life Sciences / Plant Sciences	Sciences de la Vie / Sciences Végétales	
+text	/rdmo/option[150]/text[4]	Lebenswissenschaften / Zoologie	Life Sciences / Zoology	Sciences de la Vie / Zoologie	
+text	/rdmo/option[137]/text[4]	Geistes- und Sozialwissenschaften / Kunst-, Musik-, Theater- und Medienwissenschaften	Humanities and Social Sciences / Fine Arts, Music, Theatre and Media Studies	Sciences Humaines et Société / Beaux-arts, Musique, Théâtre et Études Médiatiques	
+text	/rdmo/option[135]/text[4]	Geistes- und Sozialwissenschaften / Alte Kulturen	Humanities and Social Sciences / Ancient Cultures	Sciences Humaines et Société / Cultures Anciennes	
+text	/rdmo/option[146]/text[4]	Geistes- und Sozialwissenschaften / Wirtschaftswissenschaften	Humanities and Social Sciences / Economics	Sciences Humaines et Société / Économie	
+text	/rdmo/option[139]/text[4]	Geistes- und Sozialwissenschaften / Literaturwissenschaft	Humanities and Social Sciences / Literary Studies	Sciences Humaines et Société / Études Littéraires	
+text	/rdmo/option[136]/text[4]	Geistes- und Sozialwissenschaften / Geschichtswissenschaften	Humanities and Social Sciences / History	"Sciences Humaines et Société / Histoire
+		"	
+text	/rdmo/option[147]/text[4]	Geistes- und Sozialwissenschaften / Rechtswissenschaften	Humanities and Social Sciences / Jurisprudence	Sciences Humaines et Société / Jurisprudence	
+text	/rdmo/option[140]/text[4]	Geistes- und Sozialwissenschaften / Außereuropäische Sprachen und Kulturen, Sozial- und Kulturanthropologie, Judaistik und Religionswissenschaft	Humanities and Social Sciences / Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies	Sciences Humaines et Société / Langues et Cultures non Européennes, Anthropologie Sociale et Culturelle, Études Juives et Études Religieuses	
+text	/rdmo/option[138]/text[4]	Geistes- und Sozialwissenschaften / Sprachwissenschaften	Humanities and Social Sciences / Linguistics	Sciences Humaines et Société / Linguistique	
+text	/rdmo/option[142]/text[4]	Geistes- und Sozialwissenschaften / Philosophie	Humanities and Social Sciences / Philosophy	Sciences Humaines et Société / Philosophie	
+text	/rdmo/option[144]/text[4]	Geistes- und Sozialwissenschaften / Psychologie	Humanities and Social Sciences / Psychology	Sciences Humaines et Société / Psychologie	
+text	/rdmo/option[143]/text[4]	Geistes- und Sozialwissenschaften / Erziehungswissenschaft	Humanities and Social Sciences / Education Sciences	Sciences Humaines et Société / Sciences de l'Éducation	
+text	/rdmo/option[145]/text[4]	Geistes- und Sozialwissenschaften / Sozialwissenschaften	Humanities and Social Sciences / Social Sciences	Sciences Humaines et Société / Sciences Sociales	
+text	/rdmo/option[141]/text[4]	Geistes- und Sozialwissenschaften / Theologie	Humanities and Social Sciences / Theology	Sciences Humaines et Société / Théologie	
+text	/rdmo/option[165]/text[4]	Naturwissenschaften / Astrophysik und Astronomie	Natural Sciences / Astrophysics and Astronomy	Sciences Naturelles / Astrophysique et Astronomie	
+text	/rdmo/option[158]/text[4]	Naturwissenschaften / Analytik, Methodenentwicklung (Chemie)	Natural Sciences / Analytical Chemistry, Method Development (Chemistry)	Sciences Naturelles / Chimie analytique, Développement de Méthodes(Chemie)	
+text	/rdmo/option[159]/text[4]	Naturwissenschaften / Biologische Chemie und Lebensmittelchemie	Natural Sciences / Biological Chemistry and Food Chemistry	Sciences Naturelles / Chimie Biologique et Chimie Alimentaire	
+text	/rdmo/option[155]/text[4]	Naturwissenschaften / Molekülchemie	Natural Sciences / Molecular Chemistry	Sciences Naturelles / Chimie Moléculaire	
+text	/rdmo/option[157]/text[4]	Naturwissenschaften / Physikalische und Theoretische Chemie	Natural Sciences / Physical and Theoretical Chemistry	Sciences Naturelles / Chimie Physique et Théorique	
+text	/rdmo/option[170]/text[4]	Naturwissenschaften / Geochemie, Mineralogie und Kristallographie	Natural Sciences / Geochemistry, Mineralogy and Crystallography	Sciences Naturelles / Géochimie, Minéralogie et Cristallographie	
+text	/rdmo/option[171]/text[4]	Naturwissenschaften / Geographie	Natural Sciences / Geography	Sciences Naturelles / Géographie	
+text	/rdmo/option[168]/text[4]	Naturwissenschaften / Geologie und Paläontologie	Natural Sciences / Geology and Palaeontology	Sciences Naturelles / Géologie et Paléontologie	
+text	/rdmo/option[169]/text[4]	Naturwissenschaften / Geophysik und Geodäsie	Natural Sciences / Geophysics and Geodesy	Sciences Naturelles / Géophysique et Géodésie	
+text	/rdmo/option[166]/text[4]	Naturwissenschaften / Mathematik	Natural Sciences / Mathematics	Sciences Naturelles / Mathématiques	
+text	/rdmo/option[162]/text[4]	Naturwissenschaften / Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen	Natural Sciences / Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas	Sciences naturelles / Optique, Optique Quantique et Physique des Atomes, des Molécules et des Plasmas	
+text	/rdmo/option[163]/text[4]	Naturwissenschaften / Teilchen, Kerne und Felder	Natural Sciences / Particles, Nuclei and Fields	Sciences Naturelles / Particules, Noyaux et Champs	
+text	/rdmo/option[161]/text[4]	Naturwissenschaften / Physik der kondensierten Materie	Natural Sciences / Condensed Matter Physics	Sciences Naturelles / Physique de la Matière Condensée	
+text	/rdmo/option[164]/text[4]	Naturwissenschaften / Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	Natural Sciences / Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics	"Sciences Naturelles / Physique Statistique, Matière Molle, Physique Biologique, Dynamique Non-Linéaire
+		"	
+text	/rdmo/option[156]/text[4]	Naturwissenschaften / Chemische Festkörper- und Oberflächenforschung	Natural Sciences / Chemical Solid State and Surface Research	Sciences Naturelles / Recherche Chimique sur l'État Solide et Surface	
+text	/rdmo/option[172]/text[4]	Naturwissenschaften / Wasserforschung	Natural Sciences / Water Research	Sciences Naturelles / Recherche sur l'Eau	
+text	/rdmo/option[160]/text[4]	Naturwissenschaften / Polymerforschung	Natural Sciences / Polymer Research	Sciences Naturelles / Recherche sur les Polymères	
+text	/rdmo/option[167]/text[4]	Naturwissenschaften / Atmosphären- und Meeresforschung	Natural Sciences / Atmospheric Science and Oceanography	Sciences Naturelles / Science Atmosphérique et Océanographie	
+text	/rdmo/option[102]/text[4]	Quellen	Sources	Sources	Fonti
+text	/rdmo/option[78]/text[4]	Versionskontrollsystem	Version control system	Système de contrôle de version	
+text	/rdmo/option[213]/text[4]	Versionskontrollsystem	Version control system	Système de contrôle de version	
+text	/rdmo/option[75]/text[4]	genau	exact size	taille exacte	
+text	/rdmo/option[99]/text[4]	Technologie	Technology	Technologie	Tecnologia
+text	/rdmo/option[101]/text[4]	Zeit	Time	Temps	Tempo
+text	/rdmo/option[36]/text[4]	Übersetzung oder andere Bearbeitung eines Werkes	translation or other edition of a work	traduction ou autre édition d'une œuvre	
+text	/rdmo/option[111]/text[4]	Es wird ein eigenes Beschreibungssystem genutzt (bitte beschreiben Sie dieses kurz und geben, wenn nötig, an, wo es ausführlicher dokumentiert ist)	A custom description system is used (please briefly outline and, if necessary, indicate where it is documented in more detail)	Un système de description personnalisé est utilisé (veuillez décrire brièvement et, si nécessaire, indiquer où il est documenté plus en détail)	
+text	/rdmo/option[91]/text[4]	Nur zur Analyse/Nutzung der Daten im Rahmen des Projektes	Only for analysis / use of the data within the project	Uniquement pour l'analyse / l'utilisation des données dans le projet	
+text	/rdmo/option[121]/text[4]	URN	URN	URN	URN
+text	/rdmo/option[124]/text[4]	Grundlage einer Publikation / Nachweis guter wissenschaftlicher Praxis	Used in a publication / proof of good scientific practice	Utilisé dans une publication / preuve de bonnes pratiques scientifiques	
+text	/rdmo/option[5]/text[4]	Validierung der Datenerfassung	Validation of the data collection	Validation de la collecte des données	
+text	/rdmo/option[106]/text[4]	Automatische Prüfung auf Vollständigkeit	Automatic check for completeness	Vérification automatique qu'ils sont complets	
+text	/rdmo/option[107]/text[4]	Manuelle Prüfung auf Korrektheit	Manual check for correctness	Vérification manuelle d'exactitude	
+text	/rdmo/option[108]/text[4]	Manuelle Prüfung auf Vollständigkeit	Manual check for completeness	Vérification manuelle qu'ils sont complets	
+text	/rdmo/option[4]/text[4]	Kontrollierte Vokabulare oder standardisierte Terminologien	Controlled vocabularies or standard terminology	Vocabulaires contrôlés ou terminologie standard	
+text	/rdmo/option[8]/text[4]	Bundesdatenschutzgesetz (BDSG)	Bundesdatenschutzgesetz (BDSG, Federal Data Protection Act)		
+text	/rdmo/option[9]/text[4]	Landesdatenschutzgesetz Baden-Württemberg	Landesdatenschutzgesetz Baden-Württemberg (State Data Protection Act of Baden-Württemberg)		
+text	/rdmo/option[10]/text[4]	Landesdatenschutzgesetz Bayern	Landesdatenschutzgesetz Bayern (State Data Protection Act of Bavaria)		
+text	/rdmo/option[11]/text[4]	Landesdatenschutzgesetz Berlin	Landesdatenschutzgesetz Berlin (State Data Protection Act of Berlin)		
+text	/rdmo/option[12]/text[4]	Landesdatenschutzgesetz Bremen	Landesdatenschutzgesetz Bremen (State Data Protection Act of Bremen)		
+text	/rdmo/option[13]/text[4]	Landesdatenschutzgesetz Brandenburg	Landesdatenschutzgesetz Brandenburg (State Data Protection Act of Brandenburg)		
+text	/rdmo/option[14]/text[4]	Landesdatenschutzgesetz Hamburg	Landesdatenschutzgesetz Hamburg (State Data Protection Act of Hamburg)		
+text	/rdmo/option[15]/text[4]	Landesdatenschutzgesetz Mecklenburg-Vorpommern	Landesdatenschutzgesetz Mecklenburg-Vorpommern (State Data Protection Act of Mecklenburg-Vorpommern)		
+text	/rdmo/option[16]/text[4]	Landesdatenschutzgesetz Hessen	Landesdatenschutzgesetz Hessen (State Data Protection Act of Hesse)		
+text	/rdmo/option[17]/text[4]	Landesdatenschutzgesetz Nordrhein-Westfalen	Landesdatenschutzgesetz Nordrhein-Westfalen (State Data Protection Act of North Rhine-Westphalia)		
+text	/rdmo/option[18]/text[4]	Landesdatenschutzgesetz Rheinland-Pfalz	Landesdatenschutzgesetz Rheinland-Pfalz (State Data Protection Act of Rhineland-Palatinate)		
+text	/rdmo/option[19]/text[4]	Landesdatenschutzgesetz Niedersachsen	Landesdatenschutzgesetz Niedersachsen (State Data Protection Act of Lower Saxony)		
+text	/rdmo/option[20]/text[4]	Landesdatenschutzgesetz Saarland	Landesdatenschutzgesetz Saarland (State Data Protection Act of Saarland)		
+text	/rdmo/option[21]/text[4]	Landesdatenschutzgesetz Sachsen	Landesdatenschutzgesetz Sachsen (State Data Protection Act of Saxony)		
+text	/rdmo/option[22]/text[4]	Landesdatenschutzgesetz Sachsen-Anhalt	Landesdatenschutzgesetz Sachsen-Anhalt (State Data Protection Act of Saxony-Anhalt)		
+text	/rdmo/option[23]/text[4]	Landesdatenschutzgesetz Schleswig-Holstein	Landesdatenschutzgesetz Schleswig-Holstein (State Data Protection Act of Schleswig-Holstein)		
+text	/rdmo/option[24]/text[4]	Landesdatenschutzgesetz Thüringen	Landesdatenschutzgesetz Thüringen (State Data Protection Act of Thuringia)		
+text	/rdmo/option[25]/text[4]	Sozialgesetzbuch X (z.B. für medizinische Daten)	Sozialgesetzbuch X (Social Security Act X), e.g. for medical data		
+text	/rdmo/option[26]/text[4]	Bundesstatistikgesetz (z.B. für Zensusdaten)	Bundesstatistikgesetz (Federal Statistics Act), e.g. for census data		
+text	/rdmo/option[184]/text[4]	Recht des Verfassers sichtender wissenschaftlicher Ausgaben	"Law: ""Recht des Verfassers sichtender wissenschaftlicher Ausgaben"""		
+text	/rdmo/option[185]/text[4]	Recht des Sendeunternehmers	"Law: ""Recht des Sendeunternehmers"""		
+text	/rdmo/option[186]/text[4]	Recht des Datenbankherstellers	"Law: ""Recht des Datenbankherstellers"""		
