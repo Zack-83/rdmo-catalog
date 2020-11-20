@@ -176,28 +176,28 @@ text	/rdmo/option[166]/text[4]	Naturwissenschaften / Mathematik	Natural Sciences
 text	/rdmo/option[162]/text[4]	Naturwissenschaften / Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen	Natural Sciences / Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas	Sciences naturelles / Optique, Optique Quantique et Physique des Atomes, des Molécules et des Plasmas	Scienze naturali / Ottica, ottica quantistica e fisica degli atomi, molecole e plasma
 text	/rdmo/option[163]/text[4]	Naturwissenschaften / Teilchen, Kerne und Felder	Natural Sciences / Particles, Nuclei and Fields	Sciences Naturelles / Particules, Noyaux et Champs	Scienze naturali / Particelle, nuclei e campi
 text	/rdmo/option[161]/text[4]	Naturwissenschaften / Physik der kondensierten Materie	Natural Sciences / Condensed Matter Physics	Sciences Naturelles / Physique de la Matière Condensée	Scienze naturali / Fisica della materia condensata
-text	/rdmo/option[164]/text[4]	Naturwissenschaften / Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	Natural Sciences / Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics	"Sciences Naturelles / Physique Statistique, Matière Molle, Physique Biologique, Dynamique Non-Linéaire
+text	/rdmo/option[164]/text[4]	Naturwissenschaften / Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	Natural Sciences / Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics	"Sciences Naturelles / Physique Statistique, Matière Molle, Physique Biologique, Dynamique Non-Linéaire	Scienze naturali / Fisica statistica, materia soffice, fisica bilogica, dinamica non lineare
 		"
-text	/rdmo/option[156]/text[4]	Naturwissenschaften / Chemische Festkörper- und Oberflächenforschung	Natural Sciences / Chemical Solid State and Surface Research	Sciences Naturelles / Recherche Chimique sur l'État Solide et Surface
-text	/rdmo/option[172]/text[4]	Naturwissenschaften / Wasserforschung	Natural Sciences / Water Research	Sciences Naturelles / Recherche sur l'Eau
-text	/rdmo/option[160]/text[4]	Naturwissenschaften / Polymerforschung	Natural Sciences / Polymer Research	Sciences Naturelles / Recherche sur les Polymères
-text	/rdmo/option[167]/text[4]	Naturwissenschaften / Atmosphären- und Meeresforschung	Natural Sciences / Atmospheric Science and Oceanography	Sciences Naturelles / Science Atmosphérique et Océanographie
+text	/rdmo/option[156]/text[4]	Naturwissenschaften / Chemische Festkörper- und Oberflächenforschung	Natural Sciences / Chemical Solid State and Surface Research	Sciences Naturelles / Recherche Chimique sur l'État Solide et Surface	Scienze naturali / Chimica dello stato solido e delle superfici
+text	/rdmo/option[172]/text[4]	Naturwissenschaften / Wasserforschung	Natural Sciences / Water Research	Sciences Naturelles / Recherche sur l'Eau	Scienze naturali / Ricerca sull'acqua
+text	/rdmo/option[160]/text[4]	Naturwissenschaften / Polymerforschung	Natural Sciences / Polymer Research	Sciences Naturelles / Recherche sur les Polymères	Scienze naturali / Ricerca sui polimeri
+text	/rdmo/option[167]/text[4]	Naturwissenschaften / Atmosphären- und Meeresforschung	Natural Sciences / Atmospheric Science and Oceanography	Sciences Naturelles / Science Atmosphérique et Océanographie	Scienze naturali / Scienze atmosferiche e oceanografiche
 text	/rdmo/option[102]/text[4]	Quellen	Sources	Sources	Fonti
-text	/rdmo/option[78]/text[4]	Versionskontrollsystem	Version control system	Système de contrôle de version
-text	/rdmo/option[213]/text[4]	Versionskontrollsystem	Version control system	Système de contrôle de version
-text	/rdmo/option[75]/text[4]	genau	exact size	taille exacte
+text	/rdmo/option[78]/text[4]	Versionskontrollsystem	Version control system	Système de contrôle de version	Sistema di controllo versione
+text	/rdmo/option[213]/text[4]	Versionskontrollsystem	Version control system	Système de contrôle de version	Sistema di controllo versione
+text	/rdmo/option[75]/text[4]	genau	exact size	taille exacte	dimensione esatta
 text	/rdmo/option[99]/text[4]	Technologie	Technology	Technologie	Tecnologia
 text	/rdmo/option[101]/text[4]	Zeit	Time	Temps	Tempo
-text	/rdmo/option[36]/text[4]	Übersetzung oder andere Bearbeitung eines Werkes	translation or other edition of a work	traduction ou autre édition d'une œuvre
-text	/rdmo/option[111]/text[4]	Es wird ein eigenes Beschreibungssystem genutzt (bitte beschreiben Sie dieses kurz und geben, wenn nötig, an, wo es ausführlicher dokumentiert ist)	A custom description system is used (please briefly outline and, if necessary, indicate where it is documented in more detail)	Un système de description personnalisé est utilisé (veuillez décrire brièvement et, si nécessaire, indiquer où il est documenté plus en détail)
-text	/rdmo/option[91]/text[4]	Nur zur Analyse/Nutzung der Daten im Rahmen des Projektes	Only for analysis / use of the data within the project	Uniquement pour l'analyse / l'utilisation des données dans le projet
+text	/rdmo/option[36]/text[4]	Übersetzung oder andere Bearbeitung eines Werkes	translation or other edition of a work	traduction ou autre édition d'une œuvre	traduzione o altra edizione di un lavoro
+text	/rdmo/option[111]/text[4]	Es wird ein eigenes Beschreibungssystem genutzt (bitte beschreiben Sie dieses kurz und geben, wenn nötig, an, wo es ausführlicher dokumentiert ist)	A custom description system is used (please briefly outline and, if necessary, indicate where it is documented in more detail)	Un système de description personnalisé est utilisé (veuillez décrire brièvement et, si nécessaire, indiquer où il est documenté plus en détail)	È usata una descrizione personalizzata (inserire in forma breve e, ove necessario, indicare dove è documentata nel dettaglio)
+text	/rdmo/option[91]/text[4]	Nur zur Analyse/Nutzung der Daten im Rahmen des Projektes	Only for analysis / use of the data within the project	Uniquement pour l'analyse / l'utilisation des données dans le projet	Solo per analisi / uso dei dati all'interno del progetto
 text	/rdmo/option[121]/text[4]	URN	URN	URN	URN
-text	/rdmo/option[124]/text[4]	Grundlage einer Publikation / Nachweis guter wissenschaftlicher Praxis	Used in a publication / proof of good scientific practice	Utilisé dans une publication / preuve de bonnes pratiques scientifiques
-text	/rdmo/option[5]/text[4]	Validierung der Datenerfassung	Validation of the data collection	Validation de la collecte des données
-text	/rdmo/option[106]/text[4]	Automatische Prüfung auf Vollständigkeit	Automatic check for completeness	Vérification automatique qu'ils sont complets
-text	/rdmo/option[107]/text[4]	Manuelle Prüfung auf Korrektheit	Manual check for correctness	Vérification manuelle d'exactitude
-text	/rdmo/option[108]/text[4]	Manuelle Prüfung auf Vollständigkeit	Manual check for completeness	Vérification manuelle qu'ils sont complets
-text	/rdmo/option[4]/text[4]	Kontrollierte Vokabulare oder standardisierte Terminologien	Controlled vocabularies or standard terminology	Vocabulaires contrôlés ou terminologie standard
+text	/rdmo/option[124]/text[4]	Grundlage einer Publikation / Nachweis guter wissenschaftlicher Praxis	Used in a publication / proof of good scientific practice	Utilisé dans une publication / preuve de bonnes pratiques scientifiques	Utilizzo in una pubblicazione / prova di buona prassi scientifica
+text	/rdmo/option[5]/text[4]	Validierung der Datenerfassung	Validation of the data collection	Validation de la collecte des données	Validazione della collezione dei dati
+text	/rdmo/option[106]/text[4]	Automatische Prüfung auf Vollständigkeit	Automatic check for completeness	Vérification automatique qu'ils sont complets	Validazione automatica per completezza
+text	/rdmo/option[107]/text[4]	Manuelle Prüfung auf Korrektheit	Manual check for correctness	Vérification manuelle d'exactitude	Validazione manuale per correttezza
+text	/rdmo/option[108]/text[4]	Manuelle Prüfung auf Vollständigkeit	Manual check for completeness	Vérification manuelle qu'ils sont complets	Validazione manuale per completezza
+text	/rdmo/option[4]/text[4]	Kontrollierte Vokabulare oder standardisierte Terminologien	Controlled vocabularies or standard terminology	Vocabulaires contrôlés ou terminologie standard	Vocabolari controllati o terminologia standard
 text	/rdmo/option[8]/text[4]	Bundesdatenschutzgesetz (BDSG)	Bundesdatenschutzgesetz (BDSG, Federal Data Protection Act)
 text	/rdmo/option[9]/text[4]	Landesdatenschutzgesetz Baden-Württemberg	Landesdatenschutzgesetz Baden-Württemberg (State Data Protection Act of Baden-Württemberg)
 text	/rdmo/option[10]/text[4]	Landesdatenschutzgesetz Bayern	Landesdatenschutzgesetz Bayern (State Data Protection Act of Bavaria)
