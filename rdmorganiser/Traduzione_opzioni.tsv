@@ -48,7 +48,7 @@ text	/rdmo/option[59]/text[4]	geographische Herkunftsangabe	geographical indicat
 text	/rdmo/option[199]/text[4]	geografische Herkunftsangaben	Geographical indications	Indications géographiques	Indicazioni geografiche di origine
 text	/rdmo/option[122]/text[4]	ISLRN	ISLRN	ISLRN	ISLRN
 text	/rdmo/option[127]/text[4]	Dokumentation aufgrund gesellschaftlicher Relevanz	Documentation, because it is relevant to society	La documentation, car elle est pertinente pour la société	Documentazione in quanto rilevante per la società
-text	/rdmo/option[92]/text[4]	"Es wird keine ""informierte Einwilligung"" eingeholt"	"The ""informed consent"" is not obtained"	"Le ""consentement éclairé"" n'est pas obtenu"	Il ""consenso informato"" non è stato ricevuto
+text	/rdmo/option[92]/text[4]	Es wird keine "informierte Einwilligung" eingeholt	The "informed consent" is not obtained	Le "consentement éclairé" n'est pas obtenu	Il "consenso informato" non è stato ricevuto
 text	/rdmo/option[189]/text[4]	Der Code wird unter folgender Lizenz veröffentlicht	The code will be published under the following license	Le code sera publié sous la licence suivante	Il codice sarà pubblicato con la licenza seguente
 text	/rdmo/option[40]/text[4]	Für den Datensatz werden standardisierte Formate genutzt	The dataset adheres to standardised formats	Le jeu de données adhère à des formats standardisés	Il dataset aderisce a formati standardizzati
 text	/rdmo/option[41]/text[4]	Der Datensatz ist mit verfügbarer (offener) Software bzw. mit in der jeweiligen Community etablierter und vielgenutzter Software nutzbar	The dataset is usable with available (open) software applications or software applications that are established and widely used in the respective community	Le jeu de données est utilisable avec des applications logicielles (ouvertes) disponibles ou des applications logicielles qui sont établies et largement utilisées dans la communauté respective	Il dataset è usabile con software (open) disponibile oppure usato comunemente nella comunità di riferimento
@@ -217,6 +217,6 @@ text	/rdmo/option[23]/text[4]	Landesdatenschutzgesetz Schleswig-Holstein	Landesd
 text	/rdmo/option[24]/text[4]	Landesdatenschutzgesetz Thüringen	Landesdatenschutzgesetz Thüringen (State Data Protection Act of Thuringia)
 text	/rdmo/option[25]/text[4]	Sozialgesetzbuch X (z.B. für medizinische Daten)	Sozialgesetzbuch X (Social Security Act X), e.g. for medical data
 text	/rdmo/option[26]/text[4]	Bundesstatistikgesetz (z.B. für Zensusdaten)	Bundesstatistikgesetz (Federal Statistics Act), e.g. for census data
-text	/rdmo/option[184]/text[4]	Recht des Verfassers sichtender wissenschaftlicher Ausgaben	"Law: ""Recht des Verfassers sichtender wissenschaftlicher Ausgaben"""
-text	/rdmo/option[185]/text[4]	Recht des Sendeunternehmers	"Law: ""Recht des Sendeunternehmers"""
-text	/rdmo/option[186]/text[4]	Recht des Datenbankherstellers	"Law: ""Recht des Datenbankherstellers"""
+text	/rdmo/option[184]/text[4]	Recht des Verfassers sichtender wissenschaftlicher Ausgaben	Law: "Recht des Verfassers sichtender wissenschaftlicher Ausgaben"
+text	/rdmo/option[185]/text[4]	Recht des Sendeunternehmers	Law: "Recht des Sendeunternehmers"
+text	/rdmo/option[186]/text[4]	Recht des Datenbankherstellers	Law: "Recht des Datenbankherstellers"
