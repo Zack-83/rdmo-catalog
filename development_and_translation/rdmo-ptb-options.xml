@@ -2322,7 +2322,7 @@
     <order>0</order>
     <conditions/>
   </optionset>
-    <option dc:uri="https://rdmorganiser.github.io/terms/options/dataset_sharing_options/67">
+  <option dc:uri="https://rdmorganiser.github.io/terms/options/dataset_sharing_options/67">
     <uri_prefix>https://rdmorganiser.github.io/terms</uri_prefix>
     <key>67</key>
     <path>dataset_sharing_options/67</path>
